@@ -28,8 +28,11 @@ finally, you should send input: end  to return the output of each equation or qu
 the output would look like:
   
   4 /(7-5) => 2
+  
   2*4*4 => 32
+  
   sqrt(5^2 - 2^2) => 3^(1/2) 7^(1/2)
+  
   sqrt(-3^2 - 4^2) => 5 i
 
 
